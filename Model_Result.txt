@@ -1,0 +1,20 @@
+
+[INFO] evaluating network...
+              precision    recall  f1-score   support
+
+   with_mask       0.99      0.99      0.99       383
+without_mask       0.99      0.99      0.99       384
+
+    accuracy                           0.99       767
+   macro avg       0.99      0.99      0.99       767
+weighted avg       0.99      0.99      0.99       767
+
+
+
+
+MODEL RESULT
+
+loss: 0.0218 
+accuracy: 0.9937
+validation_loss: 0.0314 
+validation_accuracy: 0.9909
