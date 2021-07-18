@@ -3,7 +3,7 @@
 Implemented MobileNetV2 using tensorflow
 
 # Dataset
-Dataset taken few open sources image libraries and google images.
+Dataset taken from few open sources image libraries and google images.
 
 Number of images with mask=1,915 images
 
