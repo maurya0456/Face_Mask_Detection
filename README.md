@@ -1,6 +1,7 @@
 # Face_Mask_Detection
 
-Implemented MobileNetV2 using tensorflow
+Implemented MobileNetV2 using tensorflow, Keras and OpenCV.
+It detect face-masks from real-time video streams.
 
 # Dataset
 Dataset taken from few open sources image libraries and google images.
